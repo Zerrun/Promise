@@ -7,8 +7,7 @@
 //
 
 #import "ViewController.h"
-//#import "Promise.h"
-#import "PromiseKit/Promise.h"
+#import "Promise.h"
 @interface ViewController ()
 
 @end
